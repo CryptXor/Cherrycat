@@ -2,7 +2,7 @@
 CherryCat is a fast, lightweight and simple torrent indexer.
 
 # Install
-CherryCat has been tested using Nginx + PHP5-FPM (PHP5.5) + Percona MySQL Server 5.6.
+CherryCat has been tested using Nginx + PHP5-FPM (PHP5.5) + Percona MySQL Server 5.6 on Debian Wheezy 7 64-bit.
 
 Run install.php to install.
 
